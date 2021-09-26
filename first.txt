@@ -9,3 +9,5 @@ git commit
 複数ファイルをコミットします
 
 変更変更変更
+
+git statusの勉強

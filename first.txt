@@ -11,3 +11,5 @@ git commit
 変更変更変更
 
 git statusの勉強
+
+git diffの勉強

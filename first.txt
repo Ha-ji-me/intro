@@ -15,3 +15,4 @@ git statusの勉強
 git diffの勉強
 
 git diff +α　の機能
+git commitのコメントを見やすく・わかりやすくしよう
